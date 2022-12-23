@@ -1,16 +1,18 @@
-### Hi there 👋
+Hola, mi nombre es Pipkon 👋
+Freelance full-stack Web Developer & Android engineer
 
-<!--
-**Pipkon/Pipkon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github.com/Pipkon
 
-Here are some ideas to get you started:
+Soy aprendiz de desarrollo web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologías:
+
+JavaScript Node.JS HTML CSS MySQL
+Y alguna más...
+
+Encuéntrame en:
+
+ Discord
+Twitter Instagram
+
+Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
