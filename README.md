@@ -1,5 +1,5 @@
 # Hola, mi nombre es Pipkon 👋
-### Freelance full-stack Web Developer & Android engineer
+### Freelance full-stack Web Developer & Maquetador Web
 
 https://github.com/Pipkon
 
