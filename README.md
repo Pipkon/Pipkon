@@ -11,8 +11,7 @@ JavaScript Node.JS HTML CSS MySQL ViuJS PHP Quasar
 Y alguna más...
 
 ## Encuéntrame en:
-
-![Discord](https://discord.gg/E2TurjJSbU)
+[![Discord](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)](https://discord.gg/E2TurjJSbU)
 
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
