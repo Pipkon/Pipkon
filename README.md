@@ -12,7 +12,7 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-![Discord](https://discord.gg/E2TurjJSbU)
+![Discord]/discord/:topic<members|online-members>/:https://discord.gg/E2TurjJSbU
 
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
