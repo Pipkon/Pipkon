@@ -11,7 +11,7 @@ JavaScript Node.JS HTML CSS MySQL ViuJS PHP Quasar
 Y alguna más...
 
 ## Encuéntrame en:
-[![Discord] https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white](https://discord.gg/E2TurjJSbU)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/E2TurjJSbU)
 
 
 
