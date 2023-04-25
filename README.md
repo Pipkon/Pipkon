@@ -31,3 +31,5 @@ Y alguna más...
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pipkon&theme=blue-green)
 ## 3. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
