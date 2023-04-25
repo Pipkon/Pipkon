@@ -13,7 +13,7 @@ Y alguna más...
 ## Encuéntrame en:
 
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://discord.gg/E2TurjJSbU)
-
+/discord/members/reactiflux
 
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
