@@ -13,6 +13,7 @@ Y alguna más...
 ## Encuéntrame en:
 [![Discord] https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=appveyor](https://discord.gg/E2TurjJSbU)
 
+https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=appveyor
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
