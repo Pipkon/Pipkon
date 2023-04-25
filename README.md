@@ -30,7 +30,7 @@ Y alguna más...
 
 
 ## 1. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Pipkon&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
 
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pipkon&theme=blue-green)
