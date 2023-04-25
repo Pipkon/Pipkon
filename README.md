@@ -7,7 +7,7 @@ Aprendiz de desarrollo web.
 
 ## Tecnologías:
 
-JavaScript Node.JS HTML CSS MySQL ViuJS PHP
+JavaScript Node.JS HTML CSS MySQL ViuJS PHP Quasar
 Y alguna más...
 
 ## Encuéntrame en:
