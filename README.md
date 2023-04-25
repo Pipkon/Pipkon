@@ -33,3 +33,6 @@ Y alguna más...
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg
