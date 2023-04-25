@@ -13,6 +13,8 @@ Y alguna más...
 ## Encuéntrame en:
 
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://discord.gg/E2TurjJSbU)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Pipkon)
+
 
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
@@ -27,11 +29,5 @@ Y alguna más...
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Pipkon&show_icons=true)
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pipkon&theme=blue-green)
-## 3. Contributors Badge
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Pipkon/lists/html-css-javascript)
-## 4. Random Joke Generator
+## 3. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-## 5. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=Pipkon)
-### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/Pipkon/Pipkon)
