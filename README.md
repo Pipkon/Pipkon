@@ -3,7 +3,7 @@
 
 https://github.com/Pipkon
 
-Soy aprendiz de desarrollo web.
+Aprendiz de desarrollo web.
 
 ## Tecnologías:
 
