@@ -1,4 +1,4 @@
-# Hola, mi nombre es Pipkon 👋
+# Hola, mi nombre es Rafael Cordero, también conocido como Pipkon 👋
 ### Freelance full-stack Web Developer & Maquetador Web
 
 https://github.com/Pipkon
